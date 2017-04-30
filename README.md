@@ -8,6 +8,7 @@ A handly tool for building, managing, downloading AssetBundle
 4. Download Assetbundle, manage and check new version of AssetBundle file
 
 ## Used
+* Unity 5.4
 * Unity UGUI to create sample UI
 * EditorGUILayout, GUILayout... to create AssetBundle Window editor, Encrypt files in Folder window
 * WWW to handle with download AssetBundle
